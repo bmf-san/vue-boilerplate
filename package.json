@@ -1,0 +1,25 @@
+{
+  "name": "vue-form-builder",
+  "version": "1.0.0",
+  "description": "Form builder built with Vue.js",
+  "main": "webpack.config.js",
+  "scripts": {
+    "watch": "webpack --watch --progress",
+    "build": "webpack --config webpack.config.js --progress",
+    "lint": "eslint ./src/**/*.js ./src/*.js ./*.js",
+    "auto_fix": "eslint --fix ./src/**/*.js ./*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmf-san/vue-form-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmf-san/vue-form-builder/issues"
+  },
+  "homepage": "https://github.com/bmf-san/vue-form-builder#readme",
+  "dependencies": {
+    "vue": "^2.3.4"
+  }
+}
