@@ -1,4 +1,4 @@
-# Vue Form Builder
+# Vue Boilerplate
 The boilerplate for Vue.js.
 
 ## Requirements
