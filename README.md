@@ -6,6 +6,7 @@ The boilerplate for starting Vue.js.
 
 ## Get Started
 `npm install`
+
 `npm run build`
 
 ## License
