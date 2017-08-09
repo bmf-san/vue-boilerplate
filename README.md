@@ -1,5 +1,5 @@
 # Vue Boilerplate
-The boilerplate for Vue.js.
+The boilerplate for starting Vue.js.
 
 ## Requirements
 - Vue.js v2.0~ 
