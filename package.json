@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bmf-san/vue-form-builder#readme",
   "dependencies": {
-    "vue": "^2.3.4"
+    "vue": "^3.0.0"
   }
 }
